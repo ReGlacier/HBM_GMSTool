@@ -100,6 +100,10 @@
         "0x200444": "ZFriskBox",
         "0x20010F": "ZEnvSampler",
         "0x2000E8": "ZCubeGridParticles",
-        "0x2000E2": "ZParticleBox"
+        "0x2000E2": "ZParticleBox",
+        "0x8000F2": "ZGateLightSpotSquare",
+        "0x2000F6": "ZCloth",
+        "0x20044A": "ZModifiableCloth",
+        "0x2000CF": "ZEditorSpline"
     }
 }
